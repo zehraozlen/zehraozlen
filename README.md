@@ -10,4 +10,4 @@
 </p>
 
 
-<p align="center">⭐ <i>"Keep learning, keep building, keep growing."</i> ⭐</p>
+<p align="center"> <i>“Education never ends, Watson. It is a series of lessons, with the greatest for the last.” -SH </i> </p>
