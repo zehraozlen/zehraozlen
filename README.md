@@ -1,7 +1,5 @@
 <h1 align="center">
-  <p align="center">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Zehra+Özlen!)](https://git.io/typing-svg)
-  </p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Zehra+Özlen!)](https://git.io/typing-svg)
 </h1>
 
 <p align="center">
